@@ -42,6 +42,7 @@ print(sol)
 
 '''
 ## Output:
+![solving ](https://user-images.githubusercontent.com/119559822/208337202-de004392-b2d5-46dc-ba63-51a7c665e31c.png)
 
 
 ## Result: 
