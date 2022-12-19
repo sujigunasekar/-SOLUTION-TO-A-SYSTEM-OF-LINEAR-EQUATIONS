@@ -28,8 +28,7 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 
 ## Program:
-
-'''python
+```python
 
 #Program to find the solution for the given linear equations.
 #Developed by: suji.G
@@ -40,9 +39,9 @@ B = np.array([5,-3])
 sol = np.linalg.solve(A,B)
 print(sol)
 
-'''
+```
 ## Output:
-![solving ](https://user-images.githubusercontent.com/119559822/208337202-de004392-b2d5-46dc-ba63-51a7c665e31c.png)
+![solving ](exp1.png)
 
 
 ## Result: 
